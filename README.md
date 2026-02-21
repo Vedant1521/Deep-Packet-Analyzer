@@ -1,7 +1,7 @@
 # DPI Engine - Deep Packet Inspection System
 
 
-This document explains **everything** about this project - from basic networking concepts to the complete code architecture. After reading this, you should understand exactly how packets flow through the system without needing to read the code.
+This document explains **everything** about this project - from basic networking concepts to the complete code architecture. 
 
 ---
 
@@ -1045,4 +1045,5 @@ This DPI engine demonstrates:
 The key insight is that even HTTPS traffic leaks the destination domain in the TLS handshake, allowing network operators to identify and control application usage.
 
 ---
+
 
